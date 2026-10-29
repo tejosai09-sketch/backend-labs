@@ -13,7 +13,7 @@ app.get("/about", (req, res) => {
   res.status(200).json({
     name: "Addepalli Tejosai",
     registrationNumber: "252U1R9002",
-    section: "Update with your section"
+    section: "CSE_GAI-304"
   });
 });
 
