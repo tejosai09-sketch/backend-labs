@@ -82,13 +82,21 @@ The plain server also uses port `3000`, so do not run both servers at the same t
 - `time-preview.png` — preview for `GET /time`
 - `not-found-preview.png` — preview for the 404 handler
 
-Markdown image example:
+### Home route — GET /
 
-```markdown
-![Home route](screenshots/home-preview.png)
-![About route](screenshots/about-preview.png)
-![Time route](screenshots/time-preview.png)
-![404 route](screenshots/not-found-preview.png)
+![Home route preview](screenshots/home-preview.png)
+
+### About route — GET /about
+
+![About route preview](screenshots/about-preview.png)
+
+### Time route — GET /time
+
+![Time route preview](screenshots/time-preview.png)
+
+### Not found route — GET /unknown
+
+![404 route preview](screenshots/not-found-preview.png)
 ```
 
 ## Viva preparation
