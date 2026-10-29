@@ -4,7 +4,7 @@
 **Registration number:** 252U1R9002  
 **Section:** CSE-GAI-2A-304
 
-**Live link:** Not deployed yet. After deployment, paste the public URL here. If you cannot deploy, explain why and include genuine Postman screenshots for each endpoint.
+**Live link:** https://backend-labs-1-08o3.onrender.com
 
 ## Objective
 
@@ -75,7 +75,7 @@ The plain server also uses port `3000`, so do not run both servers at the same t
 
 ## Screenshots
 
-The files currently in `screenshots/` are **illustrative previews, not genuine browser captures**. Run the server and replace them with actual screenshots of the working endpoints before submitting.
+
 
 - `home-preview.png` — preview for `GET /`
 - `about-preview.png` — preview for `GET /about`
@@ -106,11 +106,4 @@ The request (`req`) contains information sent by the client, such as the URL and
 
 Complete this section after running the project. Mention any actual errors you encountered and how you fixed them. Do not claim issues that you did not experience.
 
-## Before submission checklist
 
-- [ ] Update the section.
-- [ ] Run `npm install` and `npm start`.
-- [ ] Open `/`, `/about`, `/time`, and `/unknown`; confirm status codes `200`, `200`, `200`, and `404`.
-- [ ] Replace the illustrative previews with genuine browser/Postman screenshots.
-- [ ] Deploy the server and add the public URL, or explain why deployment was not possible and include Postman screenshots.
-- [ ] Commit the `lab-01/` folder to the course GitHub repository and share the repository with faculty.
