@@ -4,7 +4,7 @@
 **Registration number:** 252U1R9002 
 **Section:**  CSE-GENAI-2A(304)
 
-**Live link:** 
+**Live link:**  https://backend-labs-2-k49j.onrender.com
 
 ## How to run
 
